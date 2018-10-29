@@ -15,10 +15,11 @@ Adapted from AMT Boxbots control for arduino
 * CH3 - Weapon, not used. Suggest connect to D7
 
 ### Motor Wiring: 
-**looking from front of robot:**
+*When looking from front of robot:*
 * Left Motor wired to motor terminals A, Red to MINUS terminal (A-) 
 * Right Motor wired to motor terminals B, Red to PLUS terminal (B+)
-**Looking at front of the axel**
+
+*When looking at front of the axel (motor shaft):*
 * Solder Red wire to motor terminal that makes the motor turn clockwise when a positive voltage is applied
 
 ### Other Connections:
