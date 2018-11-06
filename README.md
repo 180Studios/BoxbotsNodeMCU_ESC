@@ -23,6 +23,12 @@ Adapted from AMT Boxbots control for arduino
 * Solder Red wire to motor terminal that makes the motor turn clockwise when a positive voltage is applied
 
 ### Other Connections:
-* Battery connected to VM terminals
+#### Standard Power Connection
+* Battery connected to **VM** terminals
 * VIN terminals not used
-* Install header shunt to VIN & VM pins
+* Install header shunt VIN to VM pins
+#### With Motor Voltage booster
+*  Battery and Booster Input wires connected to **VIN** terminals
+   * _that's two wires per terminal_
+*  connect Booster output to **VM** terminals
+*  Do **NOT** install header shunt VIN to VM
