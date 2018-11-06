@@ -22,7 +22,7 @@ Adapted from AMT Boxbots control for arduino
 *When looking at front of the axel (motor shaft):*
 * Solder Red wire to motor terminal that makes the motor turn clockwise when a positive voltage is applied
 
-### Other Connections:
+### Power Connections:
 #### Standard Power Connection
 * Battery connected to **VM** terminals
 * VIN terminals not used
